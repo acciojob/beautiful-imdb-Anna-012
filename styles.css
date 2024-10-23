@@ -5,7 +5,7 @@
 }
 
 .movieDetail{
-	position: fixed;
+	position: sticky;
 	top:200px;
 	width:200px;
 	text-align:center;
